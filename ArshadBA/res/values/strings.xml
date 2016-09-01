@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArshadBA</string>
+    <string name="hello_world">Welcome to the Projectile Activity!</string>
+    <string name="action_settings">Settings</string>
+    <string name="butn1">Start</string>
+    <string name="tv1">Enter Velocity</string>
+    <string name="tv2">Enter Angle(Degrees)</string>
+    <string name="tv3">Live Velocity Feed</string>
+    <string name="tv4">At time  </string>
+    <string name="tv5"></string>
+    <string name="tv6">Location(x,y)  </string>
+    <string name="tv7"></string>
+
+</resources>
